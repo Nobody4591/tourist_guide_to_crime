@@ -6,3 +6,8 @@
 # Database
 DATABASE NAME
 # Author(s)
+AUTHOR1
+AUTHOR2
+# Database description
+Write the database description and requirements here
+
